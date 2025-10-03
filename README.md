@@ -1,6 +1,6 @@
 # Subject To Change
 
-A management sim that blends **wrestling promotion** strategy with the **loop and depth of football/championship manager** titles. Build your roster, book compelling shows, balance egos and budgets, and grow your brand season over season.
+A management sim that blends **wrestling promotion** strategy with the **loop and depth of football/championship manager** titles. Build your roster, book compelling shows, balance egos and budgets, and grow your brand year after year.
 
 ---
 
