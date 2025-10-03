@@ -1,0 +1,58 @@
+{
+  "name": "Ace Steel",
+  "age": 35,
+  "gender": "Male",
+  "nationality": "American",
+  "gimmick": "Brawler",
+  "alignment": "Heel",
+  "injuryProne": 22,
+  "bookingPreference": "Midcard",
+  "assignedPush": "Lower Midcard",
+  "tagPartner": "Brick Johnson",
+
+  "inRingSkills": {
+    "brawling": 74,
+    "technical": 66,
+    "highFlying": 42
+  },
+  "performanceSkills": {
+    "charisma": 53,
+    "acting": 49,
+    "selling": 68,
+    "psychology": 61
+  },
+  "reliability": {
+    "safety": 80,
+    "consistency": 77
+  },
+  "physical": {
+    "stamina": 72,
+    "athleticism": 65
+  },
+  "perception": {
+    "experience": 70,
+    "respect": 58,
+    "reputation": 45,
+    "overness": 60
+  },
+
+  "traits": [
+    "Menacing",
+    "Trainer",
+    "Superstar Look",
+    "Booker"
+  ],
+
+  "titlesHeld": [
+    {
+      "titleName": "STC World Heavyweight Championship",
+      "reigns": [
+        {
+          "startDate": "2025-01-15",
+          "endDate": "2025-03-12",
+          "notes": "Won at Rise to Glory PPV"
+        }
+      ]
+    }
+  ]
+}

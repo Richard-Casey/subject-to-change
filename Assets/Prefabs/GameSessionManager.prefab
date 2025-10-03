@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8172207173253512375
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8786162925935994245}
+  - component: {fileID: 8526122532737555516}
+  - component: {fileID: 2837551738110621729}
+  - component: {fileID: 8478155145028346074}
+  m_Layer: 0
+  m_Name: GameSessionManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8786162925935994245
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8172207173253512375}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 584.81055, y: 273.68857, z: -7.3241158}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8526122532737555516
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8172207173253512375}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1d031f8b8dc86e44a840657dec05672, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  saveOverlayPanel: {fileID: 0}
+  slotListManager: {fileID: 0}
+  overwritePanel: {fileID: 0}
+  overwriteText: {fileID: 0}
+  saveNameInput: {fileID: 0}
+--- !u!114 &2837551738110621729
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8172207173253512375}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94ae3eae7e6347e49a4ff50535fae291, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  userNameText: {fileID: 0}
+  companyText: {fileID: 0}
+  difficultyText: {fileID: 0}
+--- !u!114 &8478155145028346074
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8172207173253512375}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 199f37a5283b92b4eab67721633c4f65, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  companyListParent: {fileID: 0}
+  companyButtonPrefab: {fileID: 0}
+  companyNameText: {fileID: 0}
+  companySizeText: {fileID: 0}
+  companyMoneyText: {fileID: 0}
+  companyImageText: {fileID: 0}
+  companyOwnerText: {fileID: 0}
+  companyRosterText: {fileID: 0}
+  companyStaffText: {fileID: 0}
+  companyTVText: {fileID: 0}
+  companyBeltsText: {fileID: 0}

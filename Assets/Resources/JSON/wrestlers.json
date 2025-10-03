@@ -1,0 +1,28 @@
+{
+  "wrestlers": [
+    {
+      "name": "Ace Steel",
+      "rating": 65
+    },
+    {
+      "name": "Brick Johnson",
+      "rating": 58
+    },
+    {
+      "name": "Luna Vortex",
+      "rating": 72
+    },
+    {
+      "name": "Tommy Havoc",
+      "rating": 60
+    },
+    {
+      "name": "Razor Jett",
+      "rating": 69
+    },
+    {
+      "name": "Samantha Rage",
+      "rating": 74
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+[
+  {
+    "shortName": "WWE",
+    "fullName": "World Wrestling Entertainment",
+    "size": "Global",
+    "startingMoney": 30000000,
+    "publicImage": 90,
+    "owner": "Vince McMahon",
+    "roster": ["John Cena", "Roman Reigns"],
+    "staff": ["Paul Heyman (Manager)", "Pat Patterson (Road Agent)", "Charles Robinson (Referee)"],
+    "tvShows": ["Raw (Monday)", "Smackdown! (Friday)", "NXT (Tuesday)"],
+    "belts": ["WWE Championship", "WWE Universal Championship", "WWE Intercontinental Championship", "WWE Tag Team Championship"]
+  },
+  {
+    "shortName": "AEW",
+    "fullName": "All Elite Wrestling",
+    "size": "National",
+    "startingMoney": 15000000,
+    "publicImage": 80,
+    "owner": "Tony Khan",
+    "roster": ["Kenny Omega", "Chris Jericho"],
+    "staff": ["Arn Anderson (Coach)", "Aubrey Edwards (Referee)", "Jerry Lynn (Producer)"],
+    "tvShows": ["Dynamite (Wednesday)", "Rampage (Friday)"],
+    "belts": ["AEW World Championship", "AEW TNT Championship", "AEW Tag Team Championship"]
+  },
+  {
+    "shortName": "WCW",
+    "fullName": "World Championship Wrestling",
+    "size": "National",
+    "startingMoney": 10000000,
+    "publicImage": 70,
+    "owner": "Eric Bischoff",
+    "roster": ["Sting", "Goldberg"],
+    "staff": ["Nick Patrick (Referee)", "Mike Tenay (Announcer)", "Dusty Rhodes (Booker)"],
+    "tvShows": ["Nitro (Monday)", "Thunder (Thursday)"],
+    "belts": ["WCW World Heavyweight Championship", "WCW United States Championship", "WCW Tag Team Championship"]
+  },
+  {
+    "shortName": "TNA",
+    "fullName": "Total Nonstop Action Wrestling",
+    "size": "Regional",
+    "startingMoney": 5000000,
+    "publicImage": 60,
+    "owner": "Dixie Carter",
+    "roster": ["AJ Styles", "Samoa Joe"],
+    "staff": ["Earl Hebner (Referee)", "Don West (Announcer)", "Scott D'Amore (Coach)"],
+    "tvShows": ["Impact! (Thursday)"],
+    "belts": ["TNA World Heavyweight Championship", "TNA X Division Championship", "TNA Tag Team Championship"]
+  },
+  {
+    "shortName": "GWF",
+    "fullName": "Global Wrestling Federation",
+    "size": "Regional",
+    "startingMoney": 2000000,
+    "publicImage": 50,
+    "owner": "Matthew Thomas",
+    "roster": ["Coco B.Ware", "The Honkey Tonk Man"],
+    "staff": ["Jane Doe (Referee)", "Bob Brown (Announcer)"],
+    "tvShows": ["GWF Main Event (Saturday)"],
+    "belts": ["GWF World Championship"]
+  },
+  {
+    "shortName": "SWC",
+    "fullName": "Stampede Wrestling Of Calgary",
+    "size": "Regional",
+    "startingMoney": 5500000,
+    "publicImage": 50,
+    "owner": "Stu Hart",
+    "roster": [
+      "Apocalypse", "Belle Lovitz", "Bruce Hart", "Dave Swift", "Duke Durango", "Harry Smith", "Highlander", "Jason Carter", "Johnny Devine", "Juggernaut", "Kirk Melnick", "Marky Starr", "Nattie Neidhart", "Randy Myers"
+    ],
+    "staff": [
+      "Andy Hinchcliffe (Referee)", "Bad News Allen (Announcer)", "Dave Unsworth (Production)", "Dave Watson (Production)", "Graeme Sharp (Road Agent)", "Ian Snodin (Medical)", "Kevin Ratcliffe (Referee)", "Kevin Sheedy (Medical)", "Mauro Renallo (Announcer)", "New Southall (Writer)", "Tom Myhre (Writer)"
+    ],
+    "tvShows": [],
+    "belts": ["SWC British Commonwealth", "SWC International Tag (Tag)", "SWC North American"]
+  }
+]
+
+

@@ -1,0 +1,74 @@
+[
+    {
+      "name": "John Cena",
+      "age": 44,
+      "gimmick": "Superman",
+      "inRingSkills": { "brawling": 85, "technical": 75, "highFlying": 60 },
+      "performanceSkills": { "charisma": 95, "psychology": 90, "acting": 80, "selling": 85 },
+      "traits": ["Never Give Up", "Superstar"],
+      "titlesHeld": []
+    },
+    {
+      "name": "Roman Reigns",
+      "age": 36,
+      "gimmick": "Tribal Chief",
+      "inRingSkills": { "brawling": 90, "technical": 70, "highFlying": 55 },
+      "performanceSkills": { "charisma": 90, "psychology": 88, "acting": 75, "selling": 80 },
+      "traits": ["Head of the Table", "Powerhouse"],
+      "titlesHeld": []
+    },
+    {
+      "name": "Kenny Omega",
+      "age": 38,
+      "gimmick": "The Cleaner",
+      "inRingSkills": { "brawling": 80, "technical": 92, "highFlying": 85 },
+      "performanceSkills": { "charisma": 88, "psychology": 87, "acting": 70, "selling": 90 },
+      "traits": ["V-Trigger", "Best Bout Machine"],
+      "titlesHeld": []
+    },
+    {
+      "name": "Chris Jericho",
+      "age": 50,
+      "gimmick": "Le Champion",
+      "inRingSkills": { "brawling": 78, "technical": 85, "highFlying": 70 },
+      "performanceSkills": { "charisma": 95, "psychology": 90, "acting": 85, "selling": 88 },
+      "traits": ["Y2J", "Veteran"],
+      "titlesHeld": []
+    },
+    {
+      "name": "Sting",
+      "age": 62,
+      "gimmick": "Icon",
+      "inRingSkills": { "brawling": 75, "technical": 70, "highFlying": 60 },
+      "performanceSkills": { "charisma": 90, "psychology": 85, "acting": 80, "selling": 80 },
+      "traits": ["Crow", "Legend"],
+      "titlesHeld": []
+    },
+    {
+      "name": "Goldberg",
+      "age": 54,
+      "gimmick": "Powerhouse",
+      "inRingSkills": { "brawling": 95, "technical": 60, "highFlying": 40 },
+      "performanceSkills": { "charisma": 80, "psychology": 70, "acting": 60, "selling": 65 },
+      "traits": ["Streak", "Intensity"],
+      "titlesHeld": []
+    },
+    {
+      "name": "AJ Styles",
+      "age": 44,
+      "gimmick": "Phenomenal",
+      "inRingSkills": { "brawling": 80, "technical": 90, "highFlying": 95 },
+      "performanceSkills": { "charisma": 88, "psychology": 85, "acting": 75, "selling": 90 },
+      "traits": ["Phenomenal Forearm", "Versatile"],
+      "titlesHeld": []
+    },
+    {
+      "name": "Samoa Joe",
+      "age": 42,
+      "gimmick": "Submission Machine",
+      "inRingSkills": { "brawling": 90, "technical": 88, "highFlying": 50 },
+      "performanceSkills": { "charisma": 80, "psychology": 82, "acting": 70, "selling": 85 },
+      "traits": ["Coquina Clutch", "No Nonsense"],
+      "titlesHeld": []
+    }
+  ]
