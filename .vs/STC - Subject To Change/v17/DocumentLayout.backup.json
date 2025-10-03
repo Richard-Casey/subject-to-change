@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Projects\\STC - Subject To Change\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{26946E4D-5BE2-9B14-A90B-F87DB0A2969E}|Assembly-CSharp.csproj|c:\\projects\\stc - subject to change\\assets\\scripts\\managers\\loadgamemanager1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26946E4D-5BE2-9B14-A90B-F87DB0A2969E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\loadgamemanager1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26946E4D-5BE2-9B14-A90B-F87DB0A2969E}|Assembly-CSharp.csproj|c:\\projects\\stc - subject to change\\assets\\scripts\\managers\\simplesavemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26946E4D-5BE2-9B14-A90B-F87DB0A2969E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\simplesavemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\STC - Subject To Change\\Assets\\Scripts\\Managers\\LoadGameManager1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Managers\\LoadGameManager1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{26946E4D-5BE2-9B14-A90B-F87DB0A2969E}|Assembly-CSharp.csproj|C:\\Projects\\STC - Subject To Change\\assets\\scripts\\managers\\bootstrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -99,19 +103,30 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "LoadGameManager1.cs",
-              "DocumentMoniker": "C:\\Projects\\STC - Subject To Change\\Assets\\Scripts\\Managers\\LoadGameManager1.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\LoadGameManager1.cs",
-              "ToolTip": "C:\\Projects\\STC - Subject To Change\\Assets\\Scripts\\Managers\\LoadGameManager1.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Managers\\LoadGameManager1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "SimpleSaveManager.cs",
+              "DocumentMoniker": "C:\\Projects\\STC - Subject To Change\\Assets\\Scripts\\Managers\\SimpleSaveManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\SimpleSaveManager.cs",
+              "ToolTip": "C:\\Projects\\STC - Subject To Change\\Assets\\Scripts\\Managers\\SimpleSaveManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\SimpleSaveManager.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAYwHIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T13:22:08.09Z",
+              "WhenOpened": "2025-09-01T13:31:02.903Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "LoadGameManager1.cs",
+              "DocumentMoniker": "C:\\Projects\\STC - Subject To Change\\Assets\\Scripts\\Managers\\LoadGameManager1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\LoadGameManager1.cs",
+              "ToolTip": "C:\\Projects\\STC - Subject To Change\\Assets\\Scripts\\Managers\\LoadGameManager1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\LoadGameManager1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T13:22:08.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Bootstrapper.cs",
               "DocumentMoniker": "C:\\Projects\\STC - Subject To Change\\Assets\\Scripts\\Managers\\Bootstrapper.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\Bootstrapper.cs",
@@ -123,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "GameSessionManager.cs",
               "DocumentMoniker": "C:\\Projects\\STC - Subject To Change\\Assets\\Scripts\\Managers\\GameSessionManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\GameSessionManager.cs",
@@ -135,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "PlayerProfileManager.cs",
               "DocumentMoniker": "C:\\Projects\\STC - Subject To Change\\Assets\\Scripts\\Managers\\PlayerProfileManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\PlayerProfileManager.cs",
@@ -147,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "SaveGameData.cs",
               "DocumentMoniker": "C:\\Projects\\STC - Subject To Change\\Assets\\Scripts\\Data\\SaveGameData.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\SaveGameData.cs",
@@ -159,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Company.cs",
               "DocumentMoniker": "C:\\Projects\\STC - Subject To Change\\Assets\\Scripts\\Data\\Company.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\Company.cs",
@@ -171,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "SaveSystem.cs",
               "DocumentMoniker": "C:\\Projects\\STC - Subject To Change\\Assets\\Scripts\\Data\\SaveSystem.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\SaveSystem.cs",
@@ -183,7 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "GameSetupData.cs",
               "DocumentMoniker": "C:\\Projects\\STC - Subject To Change\\Assets\\Scripts\\Data\\GameSetupData.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\GameSetupData.cs",
@@ -195,7 +210,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "MainGameUIManager.cs",
               "DocumentMoniker": "C:\\Projects\\STC - Subject To Change\\Assets\\Scripts\\Managers\\MainGameUIManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\MainGameUIManager.cs",
@@ -207,7 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "CompanySelectionManager.cs",
               "DocumentMoniker": "C:\\Projects\\STC - Subject To Change\\Assets\\Scripts\\Managers\\CompanySelectionManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\CompanySelectionManager.cs",
@@ -219,7 +234,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "SaveSlotListManager.cs",
               "DocumentMoniker": "C:\\Projects\\STC - Subject To Change\\Assets\\Scripts\\Managers\\SaveSlotListManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\SaveSlotListManager.cs",
@@ -231,7 +246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "StartMenuManager.cs",
               "DocumentMoniker": "C:\\Projects\\STC - Subject To Change\\Assets\\Scripts\\Managers\\StartMenuManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\StartMenuManager.cs",
@@ -243,7 +258,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "MainGameSaveManager.cs",
               "DocumentMoniker": "C:\\Projects\\STC - Subject To Change\\Assets\\Scripts\\Managers\\MainGameSaveManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\MainGameSaveManager.cs",
@@ -251,12 +266,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Managers\\MainGameSaveManager.cs",
               "ViewState": "AgIAAIEAAAAAAAAAAAAAAI0AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T12:39:26.266Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-31T12:39:26.266Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "LoadGameManager.cs",
               "DocumentMoniker": "C:\\Projects\\STC - Subject To Change\\Assets\\Scripts\\Managers\\LoadGameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\LoadGameManager.cs",
@@ -268,7 +282,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "NewGameManager.cs",
               "DocumentMoniker": "C:\\Projects\\STC - Subject To Change\\Assets\\Scripts\\Managers\\NewGameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\NewGameManager.cs",
@@ -280,7 +294,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "WorkerLoader.cs",
               "DocumentMoniker": "C:\\Projects\\STC - Subject To Change\\Assets\\Scripts\\Core\\WorkerLoader.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\WorkerLoader.cs",
@@ -292,7 +306,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Worker.cs",
               "DocumentMoniker": "C:\\Projects\\STC - Subject To Change\\Assets\\Scripts\\Data\\Worker\\Worker.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\Worker\\Worker.cs",
@@ -304,7 +318,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "BookingSystem.cs",
               "DocumentMoniker": "C:\\Projects\\STC - Subject To Change\\Assets\\Scripts\\Core\\BookingSystem.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\BookingSystem.cs",
@@ -316,7 +330,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "GameManager.cs",
               "DocumentMoniker": "C:\\Projects\\STC - Subject To Change\\Assets\\Scripts\\Managers\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\GameManager.cs",

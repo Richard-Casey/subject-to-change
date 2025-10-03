@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Projects\\STC - Subject To Change\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{26946E4D-5BE2-9B14-A90B-F87DB0A2969E}|Assembly-CSharp.csproj|C:\\Projects\\STC - Subject To Change\\assets\\scripts\\managers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26946E4D-5BE2-9B14-A90B-F87DB0A2969E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{26946E4D-5BE2-9B14-A90B-F87DB0A2969E}|Assembly-CSharp.csproj|c:\\projects\\stc - subject to change\\assets\\scripts\\managers\\simplesavemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26946E4D-5BE2-9B14-A90B-F87DB0A2969E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\simplesavemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -29,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{26946E4D-5BE2-9B14-A90B-F87DB0A2969E}|Assembly-CSharp.csproj|C:\\Projects\\STC - Subject To Change\\assets\\scripts\\managers\\maingameuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26946E4D-5BE2-9B14-A90B-F87DB0A2969E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\maingameuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26946E4D-5BE2-9B14-A90B-F87DB0A2969E}|Assembly-CSharp.csproj|C:\\Projects\\STC - Subject To Change\\assets\\scripts\\managers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26946E4D-5BE2-9B14-A90B-F87DB0A2969E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{26946E4D-5BE2-9B14-A90B-F87DB0A2969E}|Assembly-CSharp.csproj|C:\\Projects\\STC - Subject To Change\\assets\\scripts\\managers\\companyselectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -90,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 387,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 21,
           "Children": [
             {
               "$type": "Bookmark",
@@ -102,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "SimpleSaveManager.cs",
               "DocumentMoniker": "C:\\Projects\\STC - Subject To Change\\Assets\\Scripts\\Managers\\SimpleSaveManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\SimpleSaveManager.cs",
@@ -115,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "LoadGameManager1.cs",
               "DocumentMoniker": "C:\\Projects\\STC - Subject To Change\\Assets\\Scripts\\Managers\\LoadGameManager1.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\LoadGameManager1.cs",
@@ -126,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Bootstrapper.cs",
               "DocumentMoniker": "C:\\Projects\\STC - Subject To Change\\Assets\\Scripts\\Managers\\Bootstrapper.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\Bootstrapper.cs",
@@ -186,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "SaveSystem.cs",
               "DocumentMoniker": "C:\\Projects\\STC - Subject To Change\\Assets\\Scripts\\Data\\SaveSystem.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\SaveSystem.cs",
@@ -210,7 +210,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "MainGameUIManager.cs",
               "DocumentMoniker": "C:\\Projects\\STC - Subject To Change\\Assets\\Scripts\\Managers\\MainGameUIManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\MainGameUIManager.cs",
@@ -246,7 +246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "StartMenuManager.cs",
               "DocumentMoniker": "C:\\Projects\\STC - Subject To Change\\Assets\\Scripts\\Managers\\StartMenuManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\StartMenuManager.cs",
@@ -270,7 +270,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "LoadGameManager.cs",
               "DocumentMoniker": "C:\\Projects\\STC - Subject To Change\\Assets\\Scripts\\Managers\\LoadGameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\LoadGameManager.cs",
@@ -330,15 +330,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "GameManager.cs",
               "DocumentMoniker": "C:\\Projects\\STC - Subject To Change\\Assets\\Scripts\\Managers\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\GameManager.cs",
               "ToolTip": "C:\\Projects\\STC - Subject To Change\\Assets\\Scripts\\Managers\\GameManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\Managers\\GameManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAYwBwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T15:04:15.614Z"
+              "WhenOpened": "2025-07-14T15:04:15.614Z",
+              "EditorCaption": ""
             }
           ]
         },

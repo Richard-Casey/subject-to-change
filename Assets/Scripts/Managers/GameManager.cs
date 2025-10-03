@@ -22,7 +22,5 @@ public class GameManager : MonoBehaviour
         currentWeek = 1;
         Debug.Log($"🎮 Starting new game for {GameSetupData.userName} at {GameSetupData.company}");
 
-        // ONLY update persistent data here, no scene-specific references
-        // e.g., BookingSystem may need to be moved to MainGame scene or use persistent data
     }
 }
